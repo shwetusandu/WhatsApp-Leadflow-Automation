@@ -287,7 +287,7 @@ Logs:
 | Sent Time | Delivery timestamp |
 | Error Log | API failures |
 
-![Lead Generation Automation](docs/supporting docs/Lead%20Generation%20Automation.xlsx)
+![Lead Generation Automation](docs/supporting%20docs/Lead%20Generation%20Automation.xlsx)
 
 ---
 
