@@ -287,6 +287,8 @@ Logs:
 | Sent Time | Delivery timestamp |
 | Error Log | API failures |
 
+![Lead Generation Automation](docs/supporting docs/Lead%20Generation%20Automation.xlsx)
+
 ---
 
 # 🚀 How to Run
@@ -341,12 +343,6 @@ Configure:
 - Twilio SID
 - Twilio Auth Token
 - Google Sheets connection
-
----
-
-# 🧩 Google Sheets DB
-
-![Lead Generation Automation](docs/supporting docs/Lead%20Generation%20Automation.xlsx)
 
 ---
 
