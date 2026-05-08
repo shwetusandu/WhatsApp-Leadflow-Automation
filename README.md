@@ -346,20 +346,7 @@ Configure:
 
 # 🧠 AI Prompt Engineering
 
-## Lead Qualification Prompt
-
-- scores lead quality
-- classifies lead intent
-- returns strict JSON
-
----
-
-## WhatsApp Prompt
-
-Generates:
-- concise outreach
-- human tone
-- conversational CTA
+![prompts](prompts/prompts/LeadFlow_AI_Prompts.md)
 
 ---
 
@@ -394,12 +381,6 @@ Generates:
 
 ---
 
-# 📬 Contact
-
-If you'd like to collaborate, discuss AI automation, or explore workflow engineering opportunities, feel free to connect.
-
----
-
 # ⭐ Final Note
 
 This project was designed with a strong focus on:
@@ -411,5 +392,13 @@ This project was designed with a strong focus on:
 
 ---
 
+# 📬 Contact
+
+If you'd like to collaborate, discuss AI automation, or explore workflow engineering opportunities, feel free to connect.
+
+---
+
 ## 🔥End of WhatsApp LeadFlow AI Automation
+
+---
 
