@@ -344,6 +344,12 @@ Configure:
 
 ---
 
+# 🧩 Google Sheets DB
+
+![Lead Generation Automation](docs/supporting docs/Lead Generation Automation.xlsx)
+
+---
+
 # 🧠 AI Prompt Engineering
 
 ![prompts](prompts/prompts/LeadFlow_AI_Prompts.md)
