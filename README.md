@@ -346,7 +346,7 @@ Configure:
 
 # 🧩 Google Sheets DB
 
-![Lead Generation Automation](docs/supporting docs/Lead Generation Automation.xlsx)
+![Lead Generation Automation](docs/supporting docs/Lead%20Generation%20Automation.xlsx)
 
 ---
 
